@@ -46,7 +46,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
    3.	Click once to begin placing the CIRCLE.
    4.	Type the Tab button and enter the value DIA 100mm .
    5.	Click again to place the circle.
-   6.	Click Finish Sketch after completing.
+   6.	Click Finish Sketch after completing. 
 
  ### STEP-8:  Extrude CIRCLE 
    1.	Select Extrude.
